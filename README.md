@@ -1,4 +1,4 @@
-Dissertation Paper Summariser Using OpenAI
+## Dissertation Paper Summariser Using OpenAI
 
 ## Overview
 The Dissertation Paper Summariser is a tool that uses OpenAI’s GPT models to automatically summarise long academic documents such as dissertations, theses, and research papers. It generates concise, structured summaries that help readers quickly understand the key points, research methods, and conclusions of a paper.
